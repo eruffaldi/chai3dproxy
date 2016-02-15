@@ -47,7 +47,7 @@
 
 #include "fingerproxy.hpp"
 
-namespace cha3dalone {
+namespace chai3d {
     
 //==============================================================================
 /*!

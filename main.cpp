@@ -3,6 +3,6 @@
 
 int main(int argc, char const *argv[])
 {
-	cha3dalone::cAlgorithmFingerProxy fp;	
+	chai3d::cAlgorithmFingerProxy fp;	
 	return 0;
 }
